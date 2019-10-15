@@ -1,0 +1,210 @@
+/* Stylesheet by O. Badajos, 2019 */
+/*------Colors---------------
+#9bc1bc cambridge blue
+#5ca4a9 cadet blue
+#e6ebe0 platinum
+#f4f1bb blond
+#ed6a5a terra cotta
+#2a4b4d dark slate gray
+#97443a cinnamon
+*/
+
+/* Global styles
+------------------------------------*/
+/* apply a natural box layout model to all elements, but allowing components to change */
+
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;    
+}
+
+a {
+    color: #ed6a5a;
+}
+a:hover {
+    text-decoration: none;
+}
+
+h1 {
+  font-size: 35px;
+  font-weight: 800;
+  padding-top: 5px;
+  margin-bottom: 10px;
+  color: #ed6a5a;
+  font-family: 'Carter One'/*'Londrina Solid'*/, cursive;
+}
+
+.head-p {
+    padding-bottom: 5px;
+    margin: 0;
+}
+
+.wrapper{
+    max-width: 100%;
+    margin: 0px auto; 
+}
+
+/* Map
+------------------------------------*/
+.panel {
+    width: 20%;
+    height: 500px;
+    border-right: 5px solid #5ca4a9;
+    border-top: 5px solid #5ca4a9;
+    border-bottom: 5px solid #5ca4a9;
+    background-color: #e6ebe0;
+    /*vertical-align: top;*/
+    float: right;
+}
+
+#map {
+    width: 80%;
+    height: 500px;
+    display: inline-block;
+    border:5px solid #5ca4a9;
+    margin: 0px auto;
+    padding: 10px auto;
+    float: left;  
+}
+
+/* Header & Footer
+------------------------------------*/
+header, #map-title {
+  background: #2a4b4d;
+  color: #9bc1bc; 
+  text-align: center;
+
+}
+
+/* Header*/
+header h2 {
+    color: #ed6a5a;
+    margin-top: 0;
+    margin-bottom: 5px;
+    clear: both;
+}
+
+/*Footer*/
+footer {
+    text-align: center;
+    background: #2a4b4d;
+    color: #9bc1bc; 
+    padding-top: 5px;
+    clear:both
+}
+
+#creditText a {
+    padding: 5px;
+    display: inline-block;
+}
+
+/* Legend
+------------------------------------*/
+.legend, .legend-control-container{
+    padding: 0px 0px;
+    font: 14px 'Open Sans', sans-serif;
+    width: 200px;
+    height:150px;
+    background-color: #e6ebe0;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    border-radius: 10 px;
+    text-align: center;
+    position: 'bottomright'
+}
+
+#temporal-legend {
+    font-size: 1em; 
+    font-weight: 600;
+    color: black;
+    padding:10px;
+    /*border: 1px solid black;*/
+}
+
+/* Controls
+------------------------------------*/
+.sequence-control-container {
+    width: 275px;
+    height: 50px;
+    background-color: #e6ebe0;
+    padding: 10px;
+    text-align: center;
+    border: solid gray 1px;
+}
+
+    .range-slider, {
+        width: 300px;
+        color: black;
+    }
+
+    #forward {
+        float: right;
+    }
+
+    #reverse {
+        float: left;
+    }
+
+/* Popup
+------------------------------------*/
+.leaflet-popup-content p {
+    margin: 0.2em 0;
+}
+
+.menu-ui {
+  background:#fff;
+  position:absolute;
+  top:10px;right:10px;
+  z-index:1;
+  border-radius:3px;
+  width:120px;
+  border:1px solid rgba(0,0,0,0.4);
+  }
+  .menu-ui a {
+    font-size:13px;
+    color:#404040;
+    display:block;
+    margin:0;padding:0;
+    padding:10px;
+    text-decoration:none;
+    border-bottom:1px solid rgba(0,0,0,0.25);
+    text-align:center;
+    }
+    .menu-ui a:first-child {
+      border-radius:3px 3px 0 0;
+      }
+    .menu-ui a:last-child {
+      border:none;
+      border-radius:0 0 3px 3px;
+      }
+    .menu-ui a:hover {
+      background:#f8f8f8;
+      color:#404040;
+      }
+    .menu-ui a.active,
+    .menu-ui a.active:hover {
+      background:#3887BE;
+      color:#FFF;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

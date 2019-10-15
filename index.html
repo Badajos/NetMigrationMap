@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <meta name="author" content="Ori Badajos">
+        <meta name="description" content="A webmap displaying the number of immigrants by country 1962-2017">
+        
+        <title>Net Migration 1962-2017</title>
+
+        <!--put your external stylesheet links here-->
+        <link rel="stylesheet"href= "lib/leaflet.css">
+        <link rel="stylesheet"href= "css/style.css">
+        <!--<link rel="stylesheet"href="https://fonts.googleapis.com/css?family=Carter+One|Open+Sans&display=swap" >-->
+        <link href="https://fonts.googleapis.com/css?family=Londrina+Solid|Open+Sans&display=swap" rel="stylesheet"> 
+        
+        <!--[if IE<9]>
+            <link rel="stylesheet" href="css/style.ie.css">
+        <![endif]-->      
+    </head>
+
+    <body>
+        <div class = "wrapper">
+            <header>
+                <h1 class = "head-title">Net Migration Map</h1>
+                <div id="map-title"></div>
+                <p class ="head-p">Net migration is the net total of migrants during the period, that is, the total number of immigrants less the annual number of emigrants, including both citizens and noncitizens. Data are five-year estimates.</p>
+            </header>
+        </div>
+        <!--put your initial page content here-->
+        <main> 
+            <div class="wrapper">
+               
+                <!--<div class="map-container">-->
+                        <div id="map"></div>
+               <!--  </div>-->
+             
+                <div class="panel">
+                    <form>
+                    <h2>Filter the data:</h2>
+                    <div id="IncomeGroup">
+                        <div class="col-xs-4">
+                        <input type= "radio" name="fltIncome" value="All" checked> 
+                        <label for="All">All</label>   
+                        </div>
+
+                        <div class="col-xs-4">
+                        <input type= "radio" id="r1" name="fltIncome" value="High income"> 
+                        <label for="High income">High Income</label>
+                        </div>
+
+                        <div class="col-xs-4">
+                        <input type= "radio" id="r2" name="fltIncome" value="Low income">
+                        <label for="Low income">Low income</label>
+                        </div>
+
+                        <div class="col-xs-4">
+                        <input type= "radio" id="r3" name="fltIncome" value="Lower middle income">
+                        <label for="Lower middle income">Lower middle income</label>
+                        </div>
+
+                        <div class="col-xs-4">
+                        <input type= "radio" id="r4" name="fltIncome" value="Upper middle income">
+                        <label for="Upper middle income">Upper middle income</label>
+                        </div>                 
+                    </div>
+                    </form>    
+                </div>
+            </div><!--end wrapper-->  
+        </main>
+        
+        <footer>
+            <div class = "wrapper">
+                <div id="creditText">
+                    <p class ="citation">United Nations Population Division. World Population Prospects: 2019 Revision.<a href= "https://datacatalog.worldbank.org/search?search_api_views_fulltext_op=AND&query=net%20migration&f%5B0%5D=field_wbddh_data_type%3A293&sort_by=search_api_relevance">https://datacatalog.worldbank</a>
+                </p>
+                </div>
+            </div>
+        </footer>                 
+        <!--you can also use this space for internal scripts or stylesheets;
+        place these within <script> or <style> tags-->
+<!--        <style>#mapid { height: 400px; }</style>-->
+            
+        <!--put your external script links here-->
+        <script src ="lib/leaflet-src.js"> </script>
+        <script src ="lib/jquery-3.4.1.js"> </script>
+        <script src ="js/main.js"></script> 
+         
+    </body>
+</html>

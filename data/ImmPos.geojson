@@ -1,0 +1,5544 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 14218,
+        "1997": 6926,
+        "2002": 6263,
+        "2007": 1,
+        "2012": 1253,
+        "2017": 1004,
+        "ID": 1,
+        "IncomeGroup": "High income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Aruba",
+        "Country Code": "ABW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.968338,
+          12.52111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 3076383,
+        "1997": 1,
+        "2002": 744193,
+        "2007": 1,
+        "2012": 521769,
+        "2017": 1,
+        "ID": 2,
+        "IncomeGroup": "Low income",
+        "Region": "South Asia",
+        "Country Name": "Afghanistan",
+        "Country Code": "AFG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.709953,
+          33.93911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 199800,
+        "1977": 199800,
+        "1982": 234148,
+        "1987": 188491,
+        "1992": 142812,
+        "1997": 199800,
+        "2002": 261100,
+        "2007": 357301,
+        "2012": 166267,
+        "2017": 32066,
+        "ID": 3,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Angola",
+        "Country Code": "AGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.873887,
+          -11.202692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 4,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Albania",
+        "Country Code": "ALB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.168331,
+          41.153332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 37882,
+        "1967": 53823,
+        "1972": 260488,
+        "1977": 372430,
+        "1982": 184159,
+        "1987": 256638,
+        "1992": 368126,
+        "1997": 498394,
+        "2002": 1189616,
+        "2007": 3592436,
+        "2012": 270000,
+        "2017": 200000,
+        "ID": 7,
+        "IncomeGroup": "High income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "United Arab Emirates",
+        "Country Code": "ARE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.847818,
+          23.424076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 122000,
+        "1967": 130000,
+        "1972": 142000,
+        "1977": 1,
+        "1982": 140000,
+        "1987": 160000,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 30000,
+        "2017": 24000,
+        "ID": 8,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Argentina",
+        "Country Code": "ARG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.616672,
+          -38.416097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 70335,
+        "1967": 103399,
+        "1972": 86404,
+        "1977": 17214,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 9,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Armenia",
+        "Country Code": "ARM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.038189,
+          40.069099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 2231,
+        "1997": 2469,
+        "2002": 252,
+        "2007": 1887,
+        "2012": 943,
+        "2017": 1,
+        "ID": 11,
+        "IncomeGroup": "High income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Antigua and Barbuda",
+        "Country Code": "ATG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.796428,
+          17.060816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 384343,
+        "1967": 806193,
+        "1972": 259531,
+        "1977": 235744,
+        "1982": 453572,
+        "1987": 654209,
+        "1992": 351078,
+        "1997": 388419,
+        "2002": 589282,
+        "2007": 1210802,
+        "2012": 989375,
+        "2017": 791229,
+        "ID": 12,
+        "IncomeGroup": "High income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Australia",
+        "Country Code": "AUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.775136,
+          -25.274398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 15996,
+        "1967": 50401,
+        "1972": 82001,
+        "1977": 5502,
+        "1982": 18002,
+        "1987": 110999,
+        "1992": 227841,
+        "1997": 65082,
+        "2002": 178117,
+        "2007": 153763,
+        "2012": 267172,
+        "2017": 324998,
+        "ID": 13,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Austria",
+        "Country Code": "AUT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.550072,
+          47.516231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 36523,
+        "2007": 53579,
+        "2012": 8499,
+        "2017": 6002,
+        "ID": 14,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Azerbaijan",
+        "Country Code": "AZE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.576927,
+          40.143105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 30004,
+        "2012": 1,
+        "2017": 10003,
+        "ID": 15,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Burundi",
+        "Country Code": "BDI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.918886,
+          -3.373056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 38304,
+        "1967": 47288,
+        "1972": 70980,
+        "1977": 73523,
+        "1982": 18478,
+        "1987": 42556,
+        "1992": 106947,
+        "1997": 50870,
+        "2002": 219560,
+        "2007": 294270,
+        "2012": 258672,
+        "2017": 240000,
+        "ID": 16,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Belgium",
+        "Country Code": "BEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.469936,
+          50.503887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 68259,
+        "1997": 1,
+        "2002": 25005,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 17,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Benin",
+        "Country Code": "BEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.315834,
+          9.30769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 18,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Burkina Faso",
+        "Country Code": "BFA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.561593,
+          12.238333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 19,
+        "IncomeGroup": "Lower middle income",
+        "Region": "South Asia",
+        "Country Name": "Bangladesh",
+        "Country Code": "BGD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.356331,
+          23.684994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 20,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Bulgaria",
+        "Country Code": "BGR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.48583,
+          42.733883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 19123,
+        "1977": 48962,
+        "1982": 3234,
+        "1987": 12899,
+        "1992": 5480,
+        "1997": 39180,
+        "2002": 155500,
+        "2007": 272000,
+        "2012": 42000,
+        "2017": 239000,
+        "ID": 21,
+        "IncomeGroup": "High income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Bahrain",
+        "Country Code": "BHR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.637772,
+          25.930414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 13873,
+        "1967": 13929,
+        "1972": 949,
+        "1977": 2981,
+        "1982": 646,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 11877,
+        "2007": 14536,
+        "2012": 4999,
+        "2017": 4999,
+        "ID": 22,
+        "IncomeGroup": "High income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Bahamas, The",
+        "Country Code": "BHS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39628,
+          25.03428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 23,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Bosnia and Herzegovina",
+        "Country Code": "BIH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.679076,
+          43.915886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 65585,
+        "1972": 37146,
+        "1977": 38298,
+        "1982": 47114,
+        "1987": 1,
+        "1992": 1,
+        "1997": 56146,
+        "2002": 1,
+        "2007": 63933,
+        "2012": 72123,
+        "2017": 43648,
+        "ID": 24,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Belarus",
+        "Country Code": "BLR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.953389,
+          53.709807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 11909,
+        "2002": 5797,
+        "2007": 8722,
+        "2012": 7594,
+        "2017": 6000,
+        "ID": 25,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Belize",
+        "Country Code": "BLZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.49765,
+          17.189877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 27,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Bolivia",
+        "Country Code": "BOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.588653,
+          -16.290154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 15924,
+        "2017": 106000,
+        "ID": 28,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Brazil",
+        "Country Code": "BRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.92528,
+          -14.235004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 29,
+        "IncomeGroup": "High income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Barbados",
+        "Country Code": "BRB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.543198,
+          13.193887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 6422,
+        "1967": 10843,
+        "1972": 10886,
+        "1977": 8293,
+        "1982": 3622,
+        "1987": 3684,
+        "1992": 4770,
+        "1997": 4188,
+        "2002": 422,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 30,
+        "IncomeGroup": "High income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Brunei Darussalam",
+        "Country Code": "BRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.727669,
+          4.535277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 5000,
+        "1967": 10000,
+        "1972": 10001,
+        "1977": 10016,
+        "1982": 797,
+        "1987": 1595,
+        "1992": 1,
+        "1997": 143,
+        "2002": 6171,
+        "2007": 1,
+        "2012": 300,
+        "2017": 1600,
+        "ID": 31,
+        "IncomeGroup": "Lower middle income",
+        "Region": "South Asia",
+        "Country Name": "Bhutan",
+        "Country Code": "BTN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.433601,
+          27.514162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 3992,
+        "1977": 17744,
+        "1982": 5203,
+        "1987": 46821,
+        "1992": 24296,
+        "1997": 36443,
+        "2002": 26928,
+        "2007": 26928,
+        "2012": 1,
+        "2017": 14999,
+        "ID": 32,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Botswana",
+        "Country Code": "BWA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.684866,
+          -22.328474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 11930,
+        "1967": 13145,
+        "1972": 1,
+        "1977": 1,
+        "1982": 40000,
+        "1987": 1,
+        "1992": 50000,
+        "1997": 30000,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 33,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Central African Republic",
+        "Country Code": "CAF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.939444,
+          6.611111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 178691,
+        "1967": 611117,
+        "1972": 758104,
+        "1977": 420633,
+        "1982": 373939,
+        "1987": 859217,
+        "1992": 690555,
+        "1997": 783535,
+        "2002": 1052013,
+        "2007": 1326431,
+        "2012": 1241416,
+        "2017": 1210159,
+        "ID": 34,
+        "IncomeGroup": "High income",
+        "Region": "North America",
+        "Country Name": "Canada",
+        "Country Code": "CAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.346771,
+          56.130366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 277152,
+        "1967": 92978,
+        "1972": 25185,
+        "1977": 1,
+        "1982": 81040,
+        "1987": 130857,
+        "1992": 247406,
+        "1997": 65218,
+        "2002": 186125,
+        "2007": 344872,
+        "2012": 397267,
+        "2017": 259999,
+        "ID": 36,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Switzerland",
+        "Country Code": "CHE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.227512,
+          46.818188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 3610,
+        "1997": 19340,
+        "2002": 42330,
+        "2007": 107169,
+        "2012": 163730,
+        "2017": 558539,
+        "ID": 38,
+        "IncomeGroup": "High income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Chile",
+        "Country Code": "CHL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.542969,
+          -35.675147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 39,
+        "IncomeGroup": "Upper middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "China",
+        "Country Code": "CHN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.195397,
+          35.86166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 200706,
+        "1967": 200706,
+        "1972": 393042,
+        "1977": 403322,
+        "1982": 427498,
+        "1987": 319134,
+        "1992": 375000,
+        "1997": 180000,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 40,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Cote d'Ivoire",
+        "Country Code": "CIV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.54708,
+          7.539989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 41,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Cameroon",
+        "Country Code": "CMR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.354722,
+          7.369722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 122650,
+        "1967": 242939,
+        "1972": 27450,
+        "1977": 100685,
+        "1982": 1,
+        "1987": 74515,
+        "1992": 1287106,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 15060,
+        "2017": 119303,
+        "ID": 42,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Congo, Dem. Rep.",
+        "Country Code": "COD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.827659,
+          -0.228021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 2098,
+        "1987": 2000,
+        "1992": 22530,
+        "1997": 49302,
+        "2002": 51485,
+        "2007": 91771,
+        "2012": 1,
+        "2017": 1,
+        "ID": 43,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Congo, Rep.",
+        "Country Code": "COG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.758664,
+          -4.038333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1023981,
+        "ID": 44,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Colombia",
+        "Country Code": "COL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.297333,
+          4.570868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 10000,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 45,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Comoros",
+        "Country Code": "COM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.872219,
+          -11.875001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 4267,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 46,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Cabo Verde",
+        "Country Code": "CPV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.013197,
+          16.002082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 7905,
+        "1967": 7827,
+        "1972": 12638,
+        "1977": 17425,
+        "1982": 18876,
+        "1987": 17417,
+        "1992": 69202,
+        "1997": 89527,
+        "2002": 41792,
+        "2007": 30339,
+        "2012": 19658,
+        "2017": 21000,
+        "ID": 47,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Costa Rica",
+        "Country Code": "CRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.753428,
+          9.748917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 49,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Cuba",
+        "Country Code": "CUB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.781167,
+          21.521757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 3053,
+        "1977": 1,
+        "1982": 1,
+        "1987": 17167,
+        "1992": 43195,
+        "1997": 53260,
+        "2002": 57530,
+        "2007": 58658,
+        "2012": 22509,
+        "2017": 25000,
+        "ID": 52,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Cyprus",
+        "Country Code": "CYP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.429859,
+          35.126413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 24999,
+        "1967": 1,
+        "1972": 9999,
+        "1977": 9999,
+        "1982": 1,
+        "1987": 5671,
+        "1992": 29999,
+        "1997": 46002,
+        "2002": 47402,
+        "2007": 250889,
+        "2012": 59997,
+        "2017": 110057,
+        "ID": 53,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Czech Republic",
+        "Country Code": "CZE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.472962,
+          49.817492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 669314,
+        "1967": 871265,
+        "1972": 701731,
+        "1977": 228894,
+        "1982": 23,
+        "1987": 1683737,
+        "1992": 2628459,
+        "1997": 715944,
+        "2002": 824445,
+        "2007": 43087,
+        "2012": 1938576,
+        "2017": 2719112,
+        "ID": 54,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Germany",
+        "Country Code": "DEU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.451526,
+          51.165691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 18000,
+        "1967": 25000,
+        "1972": 34997,
+        "1977": 91193,
+        "1982": 9999,
+        "1987": 89998,
+        "1992": 1,
+        "1997": 9988,
+        "2002": 1,
+        "2007": 1,
+        "2012": 6002,
+        "2017": 4501,
+        "ID": 55,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Djibouti",
+        "Country Code": "DJI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.590275,
+          11.825138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 2256,
+        "1967": 21866,
+        "1972": 23256,
+        "1977": 14925,
+        "1982": 9319,
+        "1987": 32839,
+        "1992": 65466,
+        "1997": 74568,
+        "2002": 46306,
+        "2007": 87989,
+        "2012": 106841,
+        "2017": 75998,
+        "ID": 57,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Denmark",
+        "Country Code": "DNK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.501785,
+          56.26392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 58,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Dominican Republic",
+        "Country Code": "DOM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.162651,
+          18.735693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 59,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Algeria",
+        "Country Code": "DZA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.659626,
+          28.033886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 182000,
+        "ID": 65,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Ecuador",
+        "Country Code": "ECU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.183406,
+          -1.831239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 66,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Egypt, Arab Rep.",
+        "Country Code": "EGY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.802498,
+          26.820553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 6997,
+        "1967": 4999,
+        "1972": 10000,
+        "1977": 10000,
+        "1982": 10000,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 227290,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 68,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Eritrea",
+        "Country Code": "ERI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.782334,
+          15.179384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 96990,
+        "1977": 76903,
+        "1982": 1,
+        "1987": 1,
+        "1992": 319270,
+        "1997": 931072,
+        "2002": 2908209,
+        "2007": 2273848,
+        "2012": 1,
+        "2017": 200000,
+        "ID": 69,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Spain",
+        "Country Code": "ESP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.74922,
+          40.463667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 43228,
+        "1967": 41204,
+        "1972": 30581,
+        "1977": 30510,
+        "1982": 25900,
+        "1987": 15497,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 19555,
+        "ID": 70,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Estonia",
+        "Country Code": "EST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.013607,
+          58.595272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 248546,
+        "1987": 765993,
+        "1992": 1457943,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 399997,
+        "2017": 150002,
+        "ID": 71,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Ethiopia",
+        "Country Code": "ETH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.489673,
+          9.145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 28880,
+        "1977": 1,
+        "1982": 26181,
+        "1987": 18268,
+        "1992": 47223,
+        "1997": 22154,
+        "2002": 31935,
+        "2007": 57558,
+        "2012": 81416,
+        "2017": 70000,
+        "ID": 74,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Finland",
+        "Country Code": "FIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.748151,
+          61.92411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 75,
+        "IncomeGroup": "Upper middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Fiji",
+        "Country Code": "FJI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.414413,
+          -16.578193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1417869,
+        "1967": 491613,
+        "1972": 543072,
+        "1977": 258429,
+        "1982": 291570,
+        "1987": 276383,
+        "1992": 122170,
+        "1997": 193631,
+        "2002": 926483,
+        "2007": 446120,
+        "2012": 423831,
+        "2017": 182636,
+        "ID": 76,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "France",
+        "Country Code": "FRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.213749,
+          46.227638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 454,
+        "1967": 429,
+        "1972": 1,
+        "1977": 120,
+        "1982": 445,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 78,
+        "IncomeGroup": "Lower middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Micronesia, Fed. Sts.",
+        "Country Code": "FSM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.550812,
+          7.425554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 9410,
+        "1967": 16188,
+        "1972": 2999,
+        "1977": 4999,
+        "1982": 4999,
+        "1987": 4999,
+        "1992": 4999,
+        "1997": 9566,
+        "2002": 24820,
+        "2007": 63698,
+        "2012": 100317,
+        "2017": 16301,
+        "ID": 79,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Gabon",
+        "Country Code": "GAB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.609444,
+          -0.803689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 143068,
+        "1967": 1,
+        "1972": 106415,
+        "1977": 39119,
+        "1982": 1,
+        "1987": 98758,
+        "1992": 205443,
+        "1997": 513361,
+        "2002": 992223,
+        "2007": 2189404,
+        "2012": 1300231,
+        "2017": 1303250,
+        "ID": 80,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "United Kingdom",
+        "Country Code": "GBR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.435973,
+          55.378051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 96284,
+        "1967": 85200,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 81,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Georgia",
+        "Country Code": "GEO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.356892,
+          42.315407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 30000,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 25002,
+        "2007": 150000,
+        "2012": 1,
+        "2017": 1,
+        "ID": 82,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Ghana",
+        "Country Code": "GHA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.023194,
+          7.946527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 84,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Guinea",
+        "Country Code": "GIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.696645,
+          9.945587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 5282,
+        "1967": 13403,
+        "1972": 14403,
+        "1977": 14580,
+        "1982": 14883,
+        "1987": 60597,
+        "1992": 2620,
+        "1997": 1,
+        "2002": 1517,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 85,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Gambia, The",
+        "Country Code": "GMB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.310139,
+          13.443182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 86,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Guinea-Bissau",
+        "Country Code": "GNB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.180413,
+          11.803749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 2998,
+        "1967": 5001,
+        "1972": 1,
+        "1977": 1,
+        "1982": 64999,
+        "1987": 20000,
+        "1992": 20002,
+        "1997": 35001,
+        "2002": 50003,
+        "2007": 80001,
+        "2012": 89999,
+        "2017": 79998,
+        "ID": 87,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Equatorial Guinea",
+        "Country Code": "GNQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.267895,
+          1.650801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 20771,
+        "1977": 297368,
+        "1982": 100241,
+        "1987": 178887,
+        "1992": 459178,
+        "1997": 297431,
+        "2002": 113586,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 88,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Greece",
+        "Country Code": "GRC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.824312,
+          39.074208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 89,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Grenada",
+        "Country Code": "GRD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.604171,
+          12.262776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 91,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Guatemala",
+        "Country Code": "GTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.230759,
+          15.783471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 109,
+        "1987": 99,
+        "1992": 1739,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 92,
+        "IncomeGroup": "High income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Guam",
+        "Country Code": "GUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.793731,
+          13.444304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 93,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Guyana",
+        "Country Code": "GUY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.93018,
+          4.860416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 71590,
+        "1972": 73970,
+        "1977": 390487,
+        "1982": 160605,
+        "1987": 221262,
+        "1992": 156486,
+        "1997": 375683,
+        "2002": 64797,
+        "2007": 89747,
+        "2012": 74892,
+        "2017": 146542,
+        "ID": 95,
+        "IncomeGroup": "High income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Hong Kong SAR, China",
+        "Country Code": "HKG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 96,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Honduras",
+        "Country Code": "HND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.241905,
+          15.199999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1854,
+        "1967": 1,
+        "1972": 1,
+        "1977": 18681,
+        "1982": 54369,
+        "1987": 26145,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 98,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Croatia",
+        "Country Code": "HRV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2,
+          45.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 99,
+        "IncomeGroup": "Low income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Haiti",
+        "Country Code": "HTI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.285215,
+          18.971187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 21715,
+        "1967": 15731,
+        "1972": 1,
+        "1977": 13040,
+        "1982": 1,
+        "1987": 1,
+        "1992": 99980,
+        "1997": 78562,
+        "2002": 61589,
+        "2007": 25150,
+        "2012": 29999,
+        "2017": 29999,
+        "ID": 100,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Hungary",
+        "Country Code": "HUN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.503304,
+          47.162494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 449965,
+        "1967": 556062,
+        "1972": 508276,
+        "1977": 378743,
+        "1982": 475080,
+        "1987": 261282,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 105,
+        "IncomeGroup": "Lower middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Indonesia",
+        "Country Code": "IDN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.921327,
+          -0.789275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 2106041,
+        "1977": 1111236,
+        "1982": 579708,
+        "1987": 45150,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 108,
+        "IncomeGroup": "Lower middle income",
+        "Region": "South Asia",
+        "Country Name": "India",
+        "Country Code": "IND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.96288,
+          20.593684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 44335,
+        "1977": 51765,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 84879,
+        "2002": 201467,
+        "2007": 197285,
+        "2012": 1,
+        "2017": 118020,
+        "ID": 110,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Ireland",
+        "Country Code": "IRL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.24389,
+          53.41291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 51755,
+        "1972": 77633,
+        "1977": 403319,
+        "1982": 2007670,
+        "1987": 1497228,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 111,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Iran, Islamic Rep.",
+        "Country Code": "IRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688046,
+          32.427908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1303607,
+        "2017": 39171,
+        "ID": 112,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Iraq",
+        "Country Code": "IRQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.679291,
+          33.223191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 260,
+        "1987": 646,
+        "1992": 1,
+        "1997": 1020,
+        "2002": 2940,
+        "2007": 12007,
+        "2012": 1,
+        "2017": 1900,
+        "ID": 113,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Iceland",
+        "Country Code": "ISL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.020835,
+          64.963051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 209496,
+        "1967": 72440,
+        "1972": 165879,
+        "1977": 62546,
+        "1982": 2604,
+        "1987": 65418,
+        "1992": 451557,
+        "1997": 245334,
+        "2002": 102935,
+        "2007": 273635,
+        "2012": 19497,
+        "2017": 50002,
+        "ID": 114,
+        "IncomeGroup": "High income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Israel",
+        "Country Code": "ISR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.851612,
+          31.046051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 19396,
+        "1977": 164927,
+        "1982": 264799,
+        "1987": 1,
+        "1992": 152825,
+        "1997": 1,
+        "2002": 1664343,
+        "2007": 1050948,
+        "2012": 1637369,
+        "2017": 744713,
+        "ID": 115,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Italy",
+        "Country Code": "ITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56738,
+          41.87194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 116,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Jamaica",
+        "Country Code": "JAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.297508,
+          18.109581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 35715,
+        "1967": 255435,
+        "1972": 1,
+        "1977": 1,
+        "1982": 81657,
+        "1987": 170602,
+        "1992": 412472,
+        "1997": 1,
+        "2002": 1,
+        "2007": 649995,
+        "2012": 1056759,
+        "2017": 51099,
+        "ID": 117,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Jordan",
+        "Country Code": "JOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.238414,
+          30.585164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 822703,
+        "1972": 714937,
+        "1977": 205006,
+        "1982": 50002,
+        "1987": 1,
+        "1992": 46286,
+        "1997": 1,
+        "2002": 164199,
+        "2007": 277580,
+        "2012": 358133,
+        "2017": 357800,
+        "ID": 118,
+        "IncomeGroup": "High income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Japan",
+        "Country Code": "JPN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.252924,
+          36.204824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 694120,
+        "1967": 173343,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 44530,
+        "2007": 1,
+        "2012": 159807,
+        "2017": 1,
+        "ID": 119,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Kazakhstan",
+        "Country Code": "KAZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.923684,
+          48.019573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 3805,
+        "1987": 5023,
+        "1992": 221569,
+        "1997": 1,
+        "2002": 25144,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 120,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Kenya",
+        "Country Code": "KEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.906193,
+          -0.023559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 103107,
+        "1967": 104185,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 121,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Kyrgyz Republic",
+        "Country Code": "KGZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.766098,
+          41.20438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 409414,
+        "1997": 348495,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 122,
+        "IncomeGroup": "Lower middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Cambodia",
+        "Country Code": "KHM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.990963,
+          12.565679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 123,
+        "IncomeGroup": "Lower middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Kiribati",
+        "Country Code": "KIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -168.734039,
+          -3.370417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 92892,
+        "1987": 170581,
+        "1992": 71418,
+        "1997": 159428,
+        "2002": 81223,
+        "2007": 1,
+        "2012": 401183,
+        "2017": 58657,
+        "ID": 125,
+        "IncomeGroup": "High income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Korea, Rep.",
+        "Country Code": "KOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.510093,
+          40.339852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 137000,
+        "1967": 146600,
+        "1972": 95836,
+        "1977": 141100,
+        "1982": 115340,
+        "1987": 119768,
+        "1992": 1,
+        "1997": 242000,
+        "2002": 26500,
+        "2007": 479500,
+        "2012": 580000,
+        "2017": 197600,
+        "ID": 126,
+        "IncomeGroup": "High income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Kuwait",
+        "Country Code": "KWT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.481766,
+          29.31166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 76,
+        "1967": 30,
+        "1972": 46,
+        "1977": 1,
+        "1982": 1,
+        "1987": 138,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 128,
+        "IncomeGroup": "Lower middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Lao PDR",
+        "Country Code": "LAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.495496,
+          19.85627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 20000,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 390001,
+        "1997": 1,
+        "2002": 550110,
+        "2007": 1,
+        "2012": 1192354,
+        "2017": 1,
+        "ID": 129,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Lebanon",
+        "Country Code": "LBN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.862285,
+          33.854721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 7996,
+        "1967": 7996,
+        "1972": 10996,
+        "1977": 11949,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 462952,
+        "2002": 1,
+        "2007": 175585,
+        "2012": 25000,
+        "2017": 1,
+        "ID": 130,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Liberia",
+        "Country Code": "LBR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.429499,
+          6.428055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 45891,
+        "1967": 48002,
+        "1972": 58665,
+        "1977": 57534,
+        "1982": 113380,
+        "1987": 5490,
+        "1992": 3965,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 131,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Libya",
+        "Country Code": "LBY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.228331,
+          26.3351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 4360,
+        "2012": 1,
+        "2017": 1,
+        "ID": 132,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "St. Lucia",
+        "Country Code": "LCA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.978893,
+          13.909444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 137,
+        "IncomeGroup": "Upper middle income",
+        "Region": "South Asia",
+        "Country Name": "Sri Lanka",
+        "Country Code": "LKA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.771797,
+          7.873054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 140,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Lesotho",
+        "Country Code": "LSO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.233608,
+          -29.609988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 24715,
+        "1967": 26314,
+        "1972": 37782,
+        "1977": 38815,
+        "1982": 43804,
+        "1987": 36863,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 142,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Lithuania",
+        "Country Code": "LTU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.881275,
+          55.169438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 8527,
+        "1967": 5918,
+        "1972": 15284,
+        "1977": 11846,
+        "1982": 2552,
+        "1987": 12831,
+        "1992": 20040,
+        "1997": 19940,
+        "2002": 14473,
+        "2007": 42279,
+        "2012": 48704,
+        "2017": 48704,
+        "ID": 143,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Luxembourg",
+        "Country Code": "LUX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.129583,
+          49.815273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 79651,
+        "1967": 70780,
+        "1972": 54668,
+        "1977": 36327,
+        "1982": 30762,
+        "1987": 41910,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 144,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Latvia",
+        "Country Code": "LVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.603189,
+          56.879635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 19062,
+        "1967": 33602,
+        "1972": 1,
+        "1977": 1,
+        "1982": 25146,
+        "1987": 33466,
+        "1992": 21845,
+        "1997": 27864,
+        "2002": 46284,
+        "2007": 42381,
+        "2012": 42350,
+        "2017": 25000,
+        "ID": 145,
+        "IncomeGroup": "High income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Macao SAR, China",
+        "Country Code": "MAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.543873,
+          22.198745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 147,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Morocco",
+        "Country Code": "MAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.09262,
+          31.791702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 100890,
+        "1967": 74449,
+        "1972": 55824,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 149,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Moldova",
+        "Country Code": "MDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.369885,
+          47.411631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 150,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Madagascar",
+        "Country Code": "MDG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.869107,
+          -18.766947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 2415,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 17392,
+        "2007": 17994,
+        "2012": 58358,
+        "2017": 56851,
+        "ID": 151,
+        "IncomeGroup": "Upper middle income",
+        "Region": "South Asia",
+        "Country Name": "Maldives",
+        "Country Code": "MDV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.22068,
+          3.202778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 153,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Mexico",
+        "Country Code": "MEX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.552784,
+          23.634501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 156,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "North Macedonia",
+        "Country Code": "MKD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.745275,
+          41.608635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 157,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Mali",
+        "Country Code": "MLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.996166,
+          17.570692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 2553,
+        "1987": 1159,
+        "1992": 1630,
+        "1997": 6378,
+        "2002": 5611,
+        "2007": 5737,
+        "2012": 15505,
+        "2017": 4501,
+        "ID": 158,
+        "IncomeGroup": "High income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Malta",
+        "Country Code": "MLT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.375416,
+          35.937496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 159,
+        "IncomeGroup": "Lower middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Myanmar",
+        "Country Code": "MMR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.956223,
+          21.913965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 161,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Montenegro",
+        "Country Code": "MNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.37439,
+          42.708678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 162,
+        "IncomeGroup": "Lower middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Mongolia",
+        "Country Code": "MNG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846656,
+          46.862496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 87373,
+        "1982": 1,
+        "1987": 1,
+        "1992": 642368,
+        "1997": 1,
+        "2002": 30004,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 164,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Mozambique",
+        "Country Code": "MOZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.529562,
+          -18.665695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 10001,
+        "2012": 25002,
+        "2017": 25002,
+        "ID": 165,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Mauritania",
+        "Country Code": "MRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.940835,
+          21.00789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 166,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Mauritius",
+        "Country Code": "MUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.552152,
+          -20.348404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 13999,
+        "1982": 1,
+        "1987": 877076,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 167,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Malawi",
+        "Country Code": "MWI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.301525,
+          -13.254308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 425455,
+        "1992": 292354,
+        "1997": 516689,
+        "2002": 671473,
+        "2007": 761878,
+        "2012": 249999,
+        "2017": 249999,
+        "ID": 168,
+        "IncomeGroup": "Upper middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Malaysia",
+        "Country Code": "MYS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.975766,
+          4.210484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 38106,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 8713,
+        "2012": 1,
+        "2017": 1,
+        "ID": 170,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Namibia",
+        "Country Code": "NAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.49041,
+          -22.95764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 3347,
+        "1967": 1406,
+        "1972": 8190,
+        "1977": 30,
+        "1982": 1,
+        "1987": 1,
+        "1992": 6328,
+        "1997": 7075,
+        "2002": 4000,
+        "2007": 1705,
+        "2012": 3003,
+        "2017": 2510,
+        "ID": 171,
+        "IncomeGroup": "High income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "New Caledonia",
+        "Country Code": "NCL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.618042,
+          -20.904305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 18911,
+        "2017": 20001,
+        "ID": 172,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Niger",
+        "Country Code": "NER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.081666,
+          17.607789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1021,
+        "1967": 1,
+        "1972": 1,
+        "1977": 820713,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 173,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Nigeria",
+        "Country Code": "NGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.675277,
+          9.081999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 174,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Nicaragua",
+        "Country Code": "NIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.207229,
+          12.865416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 11589,
+        "1967": 54636,
+        "1972": 186745,
+        "1977": 145804,
+        "1982": 71525,
+        "1987": 139748,
+        "1992": 186409,
+        "1997": 178553,
+        "2002": 146020,
+        "2007": 65713,
+        "2012": 62687,
+        "2017": 80000,
+        "ID": 175,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Netherlands",
+        "Country Code": "NLD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.291266,
+          52.132633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 4178,
+        "1972": 15870,
+        "1977": 20728,
+        "1982": 24805,
+        "1987": 38715,
+        "1992": 46903,
+        "1997": 58773,
+        "2002": 67400,
+        "2007": 163433,
+        "2012": 221814,
+        "2017": 140000,
+        "ID": 176,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Norway",
+        "Country Code": "NOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.468946,
+          60.472024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 76064,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 208549,
+        "ID": 177,
+        "IncomeGroup": "Low income",
+        "Region": "South Asia",
+        "Country Name": "Nepal",
+        "Country Code": "NPL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.124008,
+          28.394857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 54391,
+        "1967": 1,
+        "1972": 76678,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 118016,
+        "1997": 42584,
+        "2002": 134629,
+        "2007": 62413,
+        "2012": 90895,
+        "2017": 74403,
+        "ID": 179,
+        "IncomeGroup": "High income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "New Zealand",
+        "Country Code": "NZL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.885971,
+          -40.900557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 25470,
+        "1977": 76409,
+        "1982": 81500,
+        "1987": 11169,
+        "1992": 104700,
+        "1997": 1,
+        "2002": 15000,
+        "2007": 267000,
+        "2012": 885782,
+        "2017": 437000,
+        "ID": 181,
+        "IncomeGroup": "High income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Oman",
+        "Country Code": "OMN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.923255,
+          21.512583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 672203,
+        "1982": 1387118,
+        "1987": 139790,
+        "1992": 1,
+        "1997": 470909,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 183,
+        "IncomeGroup": "Lower middle income",
+        "Region": "South Asia",
+        "Country Name": "Pakistan",
+        "Country Code": "PAK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.345116,
+          30.375321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1954,
+        "1997": 9797,
+        "2002": 16119,
+        "2007": 22244,
+        "2012": 28105,
+        "2017": 56000,
+        "ID": 184,
+        "IncomeGroup": "High income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Panama",
+        "Country Code": "PAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.782127,
+          8.537981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 495345,
+        "ID": 185,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Peru",
+        "Country Code": "PER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.015152,
+          -9.189967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 186,
+        "IncomeGroup": "Lower middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Philippines",
+        "Country Code": "PHL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.774017,
+          12.879721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 5860,
+        "1967": 9476,
+        "1972": 1,
+        "1977": 1,
+        "1982": 10704,
+        "1987": 4723,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 38578,
+        "2012": 1,
+        "2017": 1,
+        "ID": 188,
+        "IncomeGroup": "Lower middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Papua New Guinea",
+        "Country Code": "PNG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.95555,
+          -6.314993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 189,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Poland",
+        "Country Code": "POL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.145136,
+          51.919438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 191,
+        "IncomeGroup": "High income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Puerto Rico",
+        "Country Code": "PRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.590149,
+          18.220833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 192,
+        "IncomeGroup": "Low income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Korea, Dem. People�s Rep.",
+        "Country Code": "PRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.766922,
+          35.907757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 108187,
+        "1977": 198629,
+        "1982": 1,
+        "1987": 1,
+        "1992": 149122,
+        "1997": 173604,
+        "2002": 178353,
+        "2007": 92133,
+        "2012": 1,
+        "2017": 1,
+        "ID": 193,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Portugal",
+        "Country Code": "PRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.224454,
+          39.399872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 194,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Paraguay",
+        "Country Code": "PRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.443832,
+          -23.442503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": "",
+        "1967": "",
+        "1972": "",
+        "1977": "",
+        "1982": "",
+        "1987": "",
+        "1992": 35005,
+        "1997": 69998,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 195,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "West Bank and Gaza",
+        "Country Code": "PSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.308825,
+          31.354676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 3190,
+        "1967": 3344,
+        "1972": 5001,
+        "1977": 4674,
+        "1982": 3650,
+        "1987": 1,
+        "1992": 1,
+        "1997": 3483,
+        "2002": 77,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 198,
+        "IncomeGroup": "High income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "French Polynesia",
+        "Country Code": "PYF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.406843,
+          -17.679742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 16393,
+        "1967": 21061,
+        "1972": 34368,
+        "1977": 28387,
+        "1982": 102097,
+        "1987": 57517,
+        "1992": 1,
+        "1997": 29506,
+        "2002": 213916,
+        "2007": 914602,
+        "2012": 604852,
+        "2017": 200000,
+        "ID": 199,
+        "IncomeGroup": "High income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Qatar",
+        "Country Code": "QAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.183884,
+          25.354826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 200,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Romania",
+        "Country Code": "ROU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.96676,
+          45.943161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 614394,
+        "1982": 1100559,
+        "1987": 890253,
+        "1992": 2490121,
+        "1997": 2374657,
+        "2002": 1778101,
+        "2007": 2326672,
+        "2012": 1800600,
+        "2017": 912279,
+        "ID": 201,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Russian Federation",
+        "Country Code": "RUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.318756,
+          61.52401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 20000,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 29999,
+        "1992": 1,
+        "1997": 1244966,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 202,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Rwanda",
+        "Country Code": "RWA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.873888,
+          -1.940278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 125989,
+        "1967": 187007,
+        "1972": 483318,
+        "1977": 788719,
+        "1982": 1383529,
+        "1987": 716825,
+        "1992": 1,
+        "1997": 1,
+        "2002": 747996,
+        "2007": 1073093,
+        "2012": 1722804,
+        "2017": 674895,
+        "ID": 204,
+        "IncomeGroup": "High income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Saudi Arabia",
+        "Country Code": "SAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.079162,
+          23.885942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 20002,
+        "1977": 180000,
+        "1982": 219998,
+        "1987": 150000,
+        "1992": 645810,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 205,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Sudan",
+        "Country Code": "SDN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.217636,
+          12.862807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 50002,
+        "1967": 86522,
+        "1972": 65586,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 206,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Senegal",
+        "Country Code": "SEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.452362,
+          14.497401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 428,
+        "1967": 1,
+        "1972": 5881,
+        "1977": 14273,
+        "1982": 137812,
+        "1987": 119802,
+        "1992": 297845,
+        "1997": 321578,
+        "2002": 92772,
+        "2007": 721338,
+        "2012": 317028,
+        "2017": 135142,
+        "ID": 207,
+        "IncomeGroup": "High income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Singapore",
+        "Country Code": "SGP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.819836,
+          1.352083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 2359,
+        "1967": 1461,
+        "1972": 431,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 208,
+        "IncomeGroup": "Lower middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Solomon Islands",
+        "Country Code": "SLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.156194,
+          -9.64571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 62745,
+        "1992": 1,
+        "1997": 1,
+        "2002": 500000,
+        "2007": 60000,
+        "2012": 1,
+        "2017": 1,
+        "ID": 209,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Sierra Leone",
+        "Country Code": "SLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.779889,
+          8.460555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 210,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "El Salvador",
+        "Country Code": "SLV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.89653,
+          13.794185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1910,
+        "1972": 1,
+        "1977": 1796103,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 212,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Somalia",
+        "Country Code": "SOM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.199616,
+          5.152149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": "",
+        "1967": "",
+        "1972": "",
+        "1977": "",
+        "1982": "",
+        "1987": "",
+        "1992": 178348,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 29559,
+        "2017": 20000,
+        "ID": 213,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Serbia",
+        "Country Code": "SRB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.005859,
+          44.016521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 218,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Sao Tome and Principe",
+        "Country Code": "STP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.613081,
+          0.18636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 219,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Suriname",
+        "Country Code": "SUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.027783,
+          3.919305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1199,
+        "2007": 1,
+        "2012": 11346,
+        "2017": 7423,
+        "ID": 220,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Slovak Republic",
+        "Country Code": "SVK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.699024,
+          48.669026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 17942,
+        "1977": 34686,
+        "1982": 68363,
+        "1987": 32609,
+        "1992": 1,
+        "1997": 1487,
+        "2002": 14998,
+        "2007": 39348,
+        "2012": 16571,
+        "2017": 9999,
+        "ID": 221,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Slovenia",
+        "Country Code": "SVN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.995463,
+          46.151241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 80351,
+        "1967": 130980,
+        "1972": 18798,
+        "1977": 88567,
+        "1982": 29799,
+        "1987": 134569,
+        "1992": 156460,
+        "1997": 58470,
+        "2002": 141723,
+        "2007": 262453,
+        "2012": 253958,
+        "2017": 200000,
+        "ID": 222,
+        "IncomeGroup": "High income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Sweden",
+        "Country Code": "SWE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.643501,
+          60.128161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 223,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Eswatini",
+        "Country Code": "SWZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.465866,
+          -26.522503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 168,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 503,
+        "1997": 1,
+        "2002": 2634,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 225,
+        "IncomeGroup": "High income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Seychelles",
+        "Country Code": "SYC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.491977,
+          -4.679574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 370000,
+        "2012": 1,
+        "2017": 1,
+        "ID": 226,
+        "IncomeGroup": "Low income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Syrian Arab Republic",
+        "Country Code": "SYR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.996815,
+          34.802075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1418,
+        "1992": 1,
+        "1997": 69444,
+        "2002": 218966,
+        "2007": 75000,
+        "2012": 100000,
+        "2017": 10000,
+        "ID": 228,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Chad",
+        "Country Code": "TCD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.732207,
+          15.454166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 138923,
+        "1972": 1,
+        "1977": 1,
+        "1982": 50001,
+        "1987": 1,
+        "1992": 1,
+        "1997": 80000,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 231,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Togo",
+        "Country Code": "TGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.824782,
+          8.619543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 395572,
+        "1977": 287226,
+        "1982": 339923,
+        "1987": 504404,
+        "1992": 1,
+        "1997": 715832,
+        "2002": 373746,
+        "2007": 59008,
+        "2012": 167314,
+        "2017": 97222,
+        "ID": 232,
+        "IncomeGroup": "Upper middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Thailand",
+        "Country Code": "THA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.992541,
+          15.870032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 53337,
+        "1967": 65780,
+        "1972": 28033,
+        "1977": 22800,
+        "1982": 12417,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 233,
+        "IncomeGroup": "Low income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Tajikistan",
+        "Country Code": "TJK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.276093,
+          38.861034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 26783,
+        "1967": 28147,
+        "1972": 25346,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 43633,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 234,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Turkmenistan",
+        "Country Code": "TKM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.556278,
+          38.969719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 236,
+        "IncomeGroup": "Lower middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Timor-Leste",
+        "Country Code": "TLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.727539,
+          -8.874217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 424,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 238,
+        "IncomeGroup": "Upper middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Tonga",
+        "Country Code": "TON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.198242,
+          -21.178986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 241,
+        "IncomeGroup": "High income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Trinidad and Tobago",
+        "Country Code": "TTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.222503,
+          10.691803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 85582,
+        "1987": 48999,
+        "1992": 140341,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 242,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Tunisia",
+        "Country Code": "TUN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.537499,
+          33.886917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1763078,
+        "2017": 1419610,
+        "ID": 243,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Turkey",
+        "Country Code": "TUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.243322,
+          38.963745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 25040,
+        "1967": 36058,
+        "1972": 120202,
+        "1977": 1,
+        "1982": 35062,
+        "1987": 68117,
+        "1992": 584095,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 245,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Tanzania",
+        "Country Code": "TZA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.888822,
+          -6.369028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 124999,
+        "1967": 50004,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 200002,
+        "1992": 109998,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 843469,
+        "ID": 246,
+        "IncomeGroup": "Low income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Uganda",
+        "Country Code": "UGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.290275,
+          1.373333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 455769,
+        "1967": 268767,
+        "1972": 206203,
+        "1977": 104383,
+        "1982": 189092,
+        "1987": 1,
+        "1992": 74421,
+        "1997": 1,
+        "2002": 1,
+        "2007": 269541,
+        "2012": 132154,
+        "2017": 50001,
+        "ID": 247,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Ukraine",
+        "Country Code": "UKR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.16558,
+          48.379433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 249,
+        "IncomeGroup": "High income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Uruguay",
+        "Country Code": "URY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.765835,
+          -32.522779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1835728,
+        "1967": 1556054,
+        "1972": 2889346,
+        "1977": 3770881,
+        "1982": 3382460,
+        "1987": 3366853,
+        "1992": 4463754,
+        "1997": 8859954,
+        "2002": 5334893,
+        "2007": 5428756,
+        "2012": 4961716,
+        "2017": 4774029,
+        "ID": 250,
+        "IncomeGroup": "High income",
+        "Region": "North America",
+        "Country Name": "United States",
+        "Country Code": "USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.712891,
+          37.09024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 161627,
+        "1967": 446173,
+        "1972": 70667,
+        "1977": 72079,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 251,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Europe & Central Asia",
+        "Country Name": "Uzbekistan",
+        "Country Code": "UZB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.585262,
+          41.377491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 252,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "St. Vincent and the Grenadines",
+        "Country Code": "VCT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.287228,
+          12.984305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 18870,
+        "1967": 3160,
+        "1972": 940,
+        "1977": 1120,
+        "1982": 1380,
+        "1987": 920,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 253,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Venezuela, RB",
+        "Country Code": "VEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.58973,
+          6.42375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 10270,
+        "1967": 3245,
+        "1972": 9407,
+        "1977": 1961,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 255,
+        "IncomeGroup": "High income",
+        "Region": "Latin America & Caribbean",
+        "Country Name": "Virgin Islands (U.S.)",
+        "Country Code": "VIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.896335,
+          18.335765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 256,
+        "IncomeGroup": "Lower middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Vietnam",
+        "Country Code": "VNM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.277199,
+          14.058324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 776,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1785,
+        "2017": 600,
+        "ID": 257,
+        "IncomeGroup": "Lower middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Vanuatu",
+        "Country Code": "VUT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.959158,
+          -15.376706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 259,
+        "IncomeGroup": "Upper middle income",
+        "Region": "East Asia & Pacific",
+        "Country Name": "Samoa",
+        "Country Code": "WSM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.104629,
+          -13.759029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 1,
+        "1987": 1,
+        "1992": 607781,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 261,
+        "IncomeGroup": "Low income",
+        "Region": "Middle East & North Africa",
+        "Country Name": "Yemen, Rep.",
+        "Country Code": "YEM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.516388,
+          15.552727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 106550,
+        "1967": 199359,
+        "1972": 222659,
+        "1977": 73316,
+        "1982": 180998,
+        "1987": 1,
+        "1992": 852860,
+        "1997": 639902,
+        "2002": 788982,
+        "2007": 862221,
+        "2012": 919697,
+        "2017": 727026,
+        "ID": 262,
+        "IncomeGroup": "Upper middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "South Africa",
+        "Country Code": "ZAF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.937506,
+          -30.559482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 10000,
+        "1987": 1,
+        "1992": 1,
+        "1997": 20000,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 263,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Zambia",
+        "Country Code": "ZMB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.849332,
+          -13.133897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "1962": 1,
+        "1967": 1,
+        "1972": 1,
+        "1977": 1,
+        "1982": 99068,
+        "1987": 84354,
+        "1992": 1,
+        "1997": 1,
+        "2002": 1,
+        "2007": 1,
+        "2012": 1,
+        "2017": 1,
+        "ID": 264,
+        "IncomeGroup": "Lower middle income",
+        "Region": "Sub-Saharan Africa",
+        "Country Name": "Zimbabwe",
+        "Country Code": "ZWE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.154857,
+          -19.015438
+        ]
+      }
+    }
+  ]
+}
