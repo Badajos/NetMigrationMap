@@ -11,9 +11,6 @@
 
 /* Global styles
 ------------------------------------*/
-/* apply a natural box layout model to all elements, but allowing components to change */
-
-
 html {
   box-sizing: border-box;
 }
@@ -34,12 +31,12 @@ a:hover {
 }
 
 h1 {
-  font-size: 35px;
-  font-weight: 800;
+  font-size: 40px;
+  font-weight: 500;
   padding-top: 5px;
   margin-bottom: 10px;
   color: #ed6a5a;
-  font-family: 'Carter One'/*'Londrina Solid'*/, cursive;
+  font-family: 'Bree Serif', serif;
 }
 
 .head-p {
@@ -61,7 +58,6 @@ h1 {
     border-top: 5px solid #5ca4a9;
     border-bottom: 5px solid #5ca4a9;
     background-color: #e6ebe0;
-    /*vertical-align: top;*/
     float: right;
 }
 
@@ -125,7 +121,6 @@ footer {
     font-weight: 600;
     color: black;
     padding:10px;
-    /*border: 1px solid black;*/
 }
 
 /* Controls
@@ -139,8 +134,8 @@ footer {
     border: solid gray 1px;
 }
 
-    .range-slider, {
-        width: 300px;
+.range-slider {
+        width: 110px;
         color: black;
     }
 
@@ -158,41 +153,6 @@ footer {
     margin: 0.2em 0;
 }
 
-.menu-ui {
-  background:#fff;
-  position:absolute;
-  top:10px;right:10px;
-  z-index:1;
-  border-radius:3px;
-  width:120px;
-  border:1px solid rgba(0,0,0,0.4);
-  }
-  .menu-ui a {
-    font-size:13px;
-    color:#404040;
-    display:block;
-    margin:0;padding:0;
-    padding:10px;
-    text-decoration:none;
-    border-bottom:1px solid rgba(0,0,0,0.25);
-    text-align:center;
-    }
-    .menu-ui a:first-child {
-      border-radius:3px 3px 0 0;
-      }
-    .menu-ui a:last-child {
-      border:none;
-      border-radius:0 0 3px 3px;
-      }
-    .menu-ui a:hover {
-      background:#f8f8f8;
-      color:#404040;
-      }
-    .menu-ui a.active,
-    .menu-ui a.active:hover {
-      background:#3887BE;
-      color:#FFF;
-      }
 
 
 

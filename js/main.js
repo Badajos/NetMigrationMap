@@ -1,5 +1,155 @@
 /* Main.js by O. Badajos, 2019 */
 
+//----------Create the map, call the data----------
+function createMap(){
+    //create the map
+    var map = L.map('map', {
+        center: [20, 0],
+        zoom: 2,
+        maxZoom: 10
+    });
+
+    //add OSM base tilelayer
+    var osm = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>'
+    }).addTo(map);
+    
+    //Toner basemap
+    var toner = L.tileLayer("http://tile.stamen.com/toner/{z}/{x}/{y}.png", {
+        attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.'
+    });
+    
+    //prep to toggle between different basemaps
+    var baseMaps = {
+        "Open Street Map": osm,
+        "Toner": toner
+    }
+    
+    //call getData function
+    getData(map);
+};
+
+//----------Import GeoJSON data; call functions----------
+function getData(map){
+    //load the data
+    $.ajax(url, {
+        dataType: "json",
+        success: function(response){
+            //create an attributes array
+            var attributes = processData(response);
+            
+            createPropSymbols(response, map, attributes);
+            createSequenceControls(map, attributes);
+            createLegend(map, attributes);
+        }
+    });  
+};
+
+//----------build attribute arrays----------
+function processData(data){
+    //empty array to hold attributes
+    var attributes = [];
+    var properties = data.features[0].properties;
+    
+    //properties of the first feature in the dataset (0=first row)
+    //console.log(properties);
+   
+    //push each attribute name into attributes array
+    for (var attribute in properties){
+        attributes.push(attribute)
+    };
+
+    //should return a list of 10 years [1962...2017]
+    /*console.log(attributes)*/
+    return attributes;  
+};
+
+//----------Add circle markers for point features to the map----------
+function createPropSymbols(data, map, attributes){
+    //Create title text
+    var attribute = attributes[0];
+    /*console.log(attributes[0])*/
+    //create a Leaflet GeoJSON layer and add it to the map
+    var myData =  L.layerGroup([]);
+    
+    var netMig = L.geoJson(data, {
+         
+       pointToLayer: function(feature, latlng){
+            return pointToLayer(feature, latlng, attributes);    
+       }        
+    });
+    
+    var myData =  L.layerGroup([]);
+    myData.addLayer(netMig);
+    myData.addTo(map); 
+    IncomeSelect(myData, map);    
+    //console.log(attribute);
+    return attribute; 
+    return myData;
+    
+    //----------filter data by income level--------------------
+    function IncomeSelect(myData, map) {
+    $("#IncomeGroup").change(function() {
+     var choice = $("input[name=fltIncome]:checked").val()
+        //console.log(choice)
+        if (choice === "All") {
+            createPropSymbols(data, map, attributes)  
+        }
+     
+        myData.clearLayers();
+        map.removeLayer(myData);
+
+        var netMig = L.geoJson(null, {
+
+        pointToLayer: function(feature, latlng){
+            return pointToLayer(feature, latlng, attributes);
+        },
+        filter: function(feature, layer) {   
+                    return (feature.properties.IncomeGroup == choice);
+                },
+        });
+
+        // Get GeoJSON data and create features.
+
+        $.getJSON(url, function(data) {
+                netMig.addData(data);
+        });
+
+        myData.addLayer(netMig);
+        myData.addTo(map); 
+        });
+    };
+};
+
+//----------function to convert markers to circle markers----------
+function pointToLayer(feature, latlng, attributes){
+    //Assign the current attribute based on the first index of the attributes array
+    var attribute = attributes[0];
+    //check
+    //console.log(attributes);
+    
+    //create marker options
+    var options = {
+        fillColor: "#ed6a5a",
+        color: "#97443a",
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 0.8
+    };
+    
+    //For each feature, determine its value for the selected attribute
+    var attValue = Number(feature.properties[attribute]);
+    
+    options.radius = calcPropRadius(attValue);
+
+    //create circle marker layer
+    var layer = L.circleMarker(latlng, options);
+    
+    createPopup(feature.properties, attribute, layer, options.radius);
+
+    //return the circle marker to the L.geoJson pointToLayer option
+    return layer;
+};
 
 //----------calculate the radius of each proportional symbol----------
 function calcPropRadius(attValue) {
@@ -13,7 +163,7 @@ function calcPropRadius(attValue) {
     return radius; 
 };
 
-//----------Calculate the max, mean, and min values for a given attribute----------
+//----------Calculate the max, mean, and min values for a given attribute-----
 function getCircleValues(map, attribute){
     //start with min at highest possible and max at lowest possible number
     var min = 100000,
@@ -23,11 +173,6 @@ function getCircleValues(map, attribute){
         //get the attribute value
         if (layer.feature){
             var attributeValue = Number(layer.feature.properties[attribute]);
-
-            /*//test for min
-            if (attributeValue < min){
-                min = attributeValue +1;
-            };*/
 
             //test for max
             if (attributeValue > max){
@@ -71,13 +216,12 @@ function updateLegend(map, attribute){
         var radius = calcPropRadius(circleValues[key]);
 
         
-        //Step 3: assign the cy and r attributes
+        //assign the cy and r attributes
         $('#'+key).attr({
             cy: 110 - radius,
             r: radius
         });
         
-        //console.log(key)
         //add legend text
         $('#'+key+'-text').text((Math.round((circleValues[key]*100)/100)/1000000).toFixed(1) + " million");
     };
@@ -107,11 +251,11 @@ function createLegend(map, attributes){
                 min: 100
             };
 
-            //Step 2: loop to add each circle and text to svg string
+            //loop to add each circle and text to svg string
             for (var circle in circles){
             //circle string
             svg += '<circle class="legend-circle" id="' + circle + '" fill="#ed6a5a" fill-opacity="0.8" stroke="#97443a" cx="55"/>';
-           // #ed6a5a
+           
             //text string
             svg += '<text id="' + circle + '-text" x="120" y="' + circles[circle] + '"></text>';
         };
@@ -143,7 +287,7 @@ function createLegend(map, attributes){
     });
 
     map.addControl(new LegendControl());
-    
+
     updateLegend(map, attributes[0]);
 };
 
@@ -159,8 +303,7 @@ function createPopup(properties, attribute, layer, radius){
         popupContent += "<p><b>Immigrants  in " + attribute + ":</b> None</p>"; 
     }
     else if (properties[attribute]>=1000000){
-        popupContent += "<p><b>" + attribute + ": </b>" +over+" million immigrants</p>"; 
-        
+        popupContent += "<p><b>" + attribute + ": </b>" +over+" million immigrants</p>";   
     }
     else if (properties[attribute]<1000000){
         popupContent += "<p><b>" + attribute + ": </b>" +under.toLocaleString()+"  immigrants</p>"; 
@@ -171,7 +314,6 @@ function createPopup(properties, attribute, layer, radius){
     layer.bindPopup(popupContent, {
         offset: new L.Point(0,-radius) 
     });
-    
 };
     
 //----------Create new sequence controls----------
@@ -245,8 +387,8 @@ function createSequenceControls(map, attributes){
                 
         //update slider
         $('.range-slider').val(index);
-        console.log(index)
-        console.log(attributes[index])
+        //console.log(index)
+        //console.log(attributes[index])
         //pass new attribute to update symbols
         
         updatePropSymbols(map, attributes[index]);
@@ -257,7 +399,7 @@ function createSequenceControls(map, attributes){
     $('.range-slider').on('input', function(){
         //Step 6: get the new index value
         var index = $(this).val();
-        console.log(index)
+        //console.log(index)
         
         //pass new attribute to update symbols
         updatePropSymbols(map, attributes[index]);
@@ -282,172 +424,6 @@ function updatePropSymbols(map, attribute){
 
             };
     });
-};
-
-//----------Add circle markers for point features to the map----------
-function createPropSymbols(data, map, attributes){
-    //Create title text
-    var attribute = attributes[0];
-    console.log(attributes[0])
-    //create a Leaflet GeoJSON layer and add it to the map
-    var myData =  L.layerGroup([]);
-    
-    var netMig = L.geoJson(data, {
-         
-       pointToLayer: function(feature, latlng){
-            return pointToLayer(feature, latlng, attributes);         
-       }        
-    });
-    /*.addTo(map)*/;
-    
-    var myData =  L.layerGroup([]);
-    myData.addLayer(netMig);
-    myData.addTo(map); 
-    IncomeSelect(myData, map);    
-    /*console.log(attribute);*/
-    return attribute; 
-    return myData;
-    
-    //----------filter attempt--------------------
-    function IncomeSelect(myData, map) {
-    $("#IncomeGroup").change(function() {
-     var choice = $("input[name=fltIncome]:checked").val()
- 
-//-----Add if/else here? to turn off filter and display all data 
-//--------------.off("change")---------------------------------------------------------------------------------------------------------------     
-     
-        myData.clearLayers();
-        map.removeLayer(myData);
-
-        var netMig = L.geoJson(null, {
-
-        pointToLayer: function(feature, latlng){
-            return pointToLayer(feature, latlng, attributes);
-        },
-        filter: function(feature, layer) {   
-                    return (feature.properties.IncomeGroup == choice);
-                },
-        });
-
-        // Get GeoJSON data and create features.
-
-        $.getJSON(url, function(data) {
-                netMig.addData(data);
-        });
-
-        myData.addLayer(netMig);
-        myData.addTo(map); 
-        });
-    
-    console.log(myData)
-    };
-};
-
-
-
-//----------function to convert markers to circle markers----------
-function pointToLayer(feature, latlng, attributes){
-    //Assign the current attribute based on the first index of the attributes array
-    var attribute = attributes[0];
-    //check
-    //console.log(attributes);
-    
-    //create marker options
-    var options = {
-        fillColor: "#ed6a5a",
-        color: "#97443a",
-        weight: 1,
-        opacity: 1,
-        fillOpacity: 0.8
-    };
-    
-    //For each feature, determine its value for the selected attribute
-    var attValue = Number(feature.properties[attribute]);
-    
-    options.radius = calcPropRadius(attValue);
-
-    //create circle marker layer
-    var layer = L.circleMarker(latlng, options);
-    
-    createPopup(feature.properties, attribute, layer, options.radius);
-
-    //return the circle marker to the L.geoJson pointToLayer option
-    //console.log(layer)
-    //console.log(feature.properties.IncomeGroup)
-    return layer;
-};
-
-
-
-//----------build attribute arrays----------
-function processData(data){
-    //empty array to hold attributes
-    var attributes = [];
-    var properties = data.features[0].properties;
-    //console.log(properties);
-    
-    //properties of the first feature in the dataset (0=first row)
-    console.log(properties);
-   
-    //push each attribute name into attributes array
-    for (var attribute in properties){
-        attributes.push(attribute)
-        /*if (attribute.indexOf("2" && "1") > -1){
-            attributes.push(attribute);
-        }
-        else {
-            attributes.push(attribute);*/
-        /*};*/
-    };
-
-    //should return a list of 10 years [1962...2017]
-    console.log(attributes)
-    return attributes;  
-};
-
-//----------Import GeoJSON data; call processData; createPropSymbols; sequenceControls, Legend----------
-/*var url = 'data/ImmPos.geojson';*/
-function getData(map){
-    //load the data
-    $.ajax(url, {
-        dataType: "json",
-        success: function(response){
-            //create an attributes array
-            var attributes = processData(response);
-            
-            createPropSymbols(response, map, attributes);
-            createSequenceControls(map, attributes);
-            createLegend(map, attributes);
-        }
-    });  
-};
-
-//----------Create the map, call the data----------
-function createMap(){
-    //create the map
-    var map = L.map('map', {
-        center: [20, 0],
-        zoom: 2,
-        maxZoom: 10
-    });
-
-    //add OSM base tilelayer
-    var osm = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>'
-    }).addTo(map);
-    
-    //Toner basemap
-    var toner = L.tileLayer("http://tile.stamen.com/toner/{z}/{x}/{y}.png", {
-        attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.'
-    });
-    
-    var baseMaps = {
-        "Open Street Map": osm,
-        "Toner": toner
-    }
-    
-    //call getData function
-    getData(map);
 };
 
 var url = 'data/ImmPos.geojson';  
